@@ -1,16 +1,28 @@
-## Hi there 👋
+Here’s a customized README file for your GitHub profile based on your request:
 
-<!--
-**MACHANxD/MACHANxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Hi, I'm [Goutham ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**FiveM Developer | Web Developer | Tech Enthusiast**
+
+**Followers:** [Number of Followers]
+
+## About Me
+I'm a passionate developer with a focus on creating immersive and functional experiences in FiveM and web development. My journey in tech is fueled by curiosity and a drive to build solutions that make a difference.
+Penmane:MXD
+- 🌱 I’m currently learning more about advanced development techniques.
+- 💬 Ask me about FiveM development, HTML, and web development.
+- 📫 How to reach me: [Your Contact Information]
+
+## Tech Stack
+
+- **FiveM Development**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Learning More Development Tools**
+
+---
+
+Feel free to customize the placeholders like `[Your Name]`, `[Number of Followers]`, and `[Your Contact Information]` with your actual details. This README should give visitors a clear idea of your expertise and interests.
