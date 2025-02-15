@@ -6,7 +6,6 @@ Here’s a customized README file for your GitHub profile based on your request:
 
 **FiveM Developer | Web Developer | Tech Enthusiast**
 
-**Followers:** [Number of Followers]
 
 ## About Me
 I'm a passionate developer with a focus on creating immersive and functional experiences in FiveM and web development. My journey in tech is fueled by curiosity and a drive to build solutions that make a difference.
