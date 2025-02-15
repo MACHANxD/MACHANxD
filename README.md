@@ -2,7 +2,7 @@ Here’s a customized README file for your GitHub profile based on your request:
 
 ---
 
-# Hi, I'm [Goutham ]
+# Hi, I'm Goutham 
 
 **FiveM Developer | Web Developer | Tech Enthusiast**
 
